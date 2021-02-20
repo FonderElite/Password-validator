@@ -1,8 +1,8 @@
 # 👨‍⚖️Password-validator
-Check if your password is valid enough to be used.
+**Check if your password is valid enough to be used**.
 
 # Purpose
-Strengthen Your Password and protect you attacks like bruteforcing.
+**Strengthen Your Password and protect you attacks like bruteforcing.**
 
 # Installation
 ### ```git clone https://github.com/FonderElite/Password-validator```
