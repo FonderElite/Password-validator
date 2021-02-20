@@ -1,4 +1,5 @@
 # 👨‍⚖️Password-validator
+<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/cyber-security-1875738-1586940.png" width="" height="">
 **Check if your password is valid enough to be used**.
 
 # Purpose
