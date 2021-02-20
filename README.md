@@ -1,6 +1,6 @@
 # 👨‍⚖️Password-validator
 <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/cyber-security-1875738-1586940.png" width="" height="">
-**Check if your password is valid enough to be used**.
+**Check if your password is valid enough to be used.**
 
 ## Purpose
 **Strengthen Your Password and protect you attacks like bruteforcing.**
